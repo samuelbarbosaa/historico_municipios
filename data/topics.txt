@@ -1,0 +1,75 @@
+# Latifúndio
+coronel
+capitão
+fazenda
+capitania
+
+# Rio
+rio
+margem
+córrego
+foz
+
+# Bandeiras
+bandeirante
+bandeira
+
+# Café
+café
+cafeicultor
+cafeicultura
+
+# Religião
+missão
+missões
+capela
+igreja
+padre
+padroeiro
+vigário
+
+# Agricultura
+milho
+mandioca
+soja
+cacau
+algodão
+
+# Pecuária
+boi
+vaqueiro
+
+# Indústria
+indústria
+
+
+# Justiça
+cartório
+judiciário
+
+# Rec Naturais
+diamante
+ouro
+aurífero
+aurífera
+
+# Colonização
+colônia
+colônias
+colonizador
+colonização
+
+# Imigração
+imigração
+imigrantes
+imigrante
+vapor
+
+# Estado
+governador
+
+# Escravidão
+escravidão
+escravo
+escrava
+escravos
